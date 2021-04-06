@@ -1,0 +1,13 @@
+target/*
+/target/
+
+.classpath
+.project
+.settings
+
+/bin/
+/test-output/
+/test-output/*
+/allure-results/
+/.metadata/
+/.metadata/*
